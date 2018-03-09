@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--可悬浮的expendlistview属性-->
+    <declare-styleable name="PinnerExpendListView">
+        <attr name="collaps_enable" format="boolean"></attr>
+    </declare-styleable>
+
+</resources>
